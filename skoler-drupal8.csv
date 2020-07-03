@@ -1,0 +1,492 @@
+title,field_lengdegrad,field_breddegrad,field_skolenavn,field_epostadresse,field_postnummer_skole,field_post,field_webside
+Node 0,5.69944120314887,58.954882573909906,Acta Bibelskole,acta@imikirken.no,4021,STAVANGER,
+Node 1,10.823401689940601,63.533299592173904,Aglo videregående skole,aglo@aglo.no,7510,SKATVAL,aglo.no
+Node 2,5.33142130259372,60.3906369897566,Akademiet Bergen Fpg AS,bergen@akademiet.no,5017,BERGEN,www.akademiet.no
+Node 3,10.1667345311257,59.7390316768223,Akademiet Drammen AS,drammen@akademiet.no,3047,DRAMMEN,www.akademiet.no
+Node 4,10.9509470512021,59.209440558585996,Akademiet Fredrikstad AS,fredrikstad@akademiet.no,1604,FREDRIKSTAD,www.akademiet.no
+Node 5,6.1503151476507,62.47340164505321,Akademiet Heltberg Toppidrettsgymnas Ålesund AS,alesund@heltberg.no,6004,ÅLESUND,www.heltberg.no
+Node 6,8.02905473645719,58.153246656948006,Akademiet Kristiansand AS,kristiansand@akademiet.no,4632,KRISTIANSAND S,www.akademiet.no
+Node 7,10.7317909263016,59.9234478358823,Akademiet Oslo AS,oslo@akademiet.no,167,OSLO,www.akademiet.no
+Node 8,5.73302772996167,58.85098055027021,Akademiet Sandnes,sandnes@akademiet.no,4306,SANDNES,www.akademiet.no/vgs/skolesteder/sandnes/
+Node 9,7.172828065802141,62.739718857565606,Akademiet Vgs Molde AS,molde@akademiet.no,6415,MOLDE,
+Node 10,6.1503151476507,62.47340164505321,Akademiet Vgs Ålesund AS,alesund@akademiet.no,6004,ÅLESUND,
+Node 11,10.171568445900402,59.748731470033,Akademiet Ypsilon videregående skole AS,ypsilon@akademiet.no,3023,DRAMMEN,www.akademiet.no
+Node 12,23.2978241109091,69.9746568021842,Alta videregående skole,postmottak@tffk.no,9510,ALTA,www.alta.vgs.no/
+Node 13,5.338077031532991,60.38566313643501,Amalie Skram videregående skole,post@vlfk.no,5015,BERGEN,skole.hfk.no/amalieskramvgs/
+Node 14,16.1291147695844,69.3169640114601,Andøy videregående skole,post@nfk.no,8480,ANDENES,www.andoy.vgs.no
+Node 15,8.08402645123232,58.182979601274006,Ansgar Bibelskole AS,post@ansgarskolen.no,4635,KRISTIANSAND S,www.ansgarskolen.no
+Node 16,8.76989977553447,58.4630609026509,Arendal videregående skole,postmottak@agderfk.no,4841,ARENDAL,www.arendal.vgs.no
+Node 17,8.7640548498218,58.45801167601579,Arendal videregående skole,postmottak@agderfk.no,4836,ARENDAL,www.arendal.vgs.no
+Node 18,5.46022284033398,60.4425613597666,Arna vidaregåande skule,post@vlfk.no,5260,INDRE ARNA,skole.hfk.no/arnavgs
+Node 19,10.437457330773,59.8315903412316,Asker videregående skole,post@viken.no,1386,ASKER,www.asker.vgs.no
+Node 20,11.160602809716801,59.5752390233494,Askim videregående skole,post@viken.no,1813,ASKIM,www.askim.vgs.no/
+Node 21,5.217954076369531,60.4175975325764,Askøy videregående skole,post@vlfk.no,5300,KLEPPESTØ,skole.hfk.no/askoyvgs
+Node 22,7.7362892691995295,63.1264950739202,Atlanten videregående skole,post@mrfylke.no,6511,KRISTIANSUND N,www.atlanten.vgs.no
+Node 23,14.566100977783,68.23643554971851,Aust-Lofoten videregående skole,post@nfk.no,8300,SVOLVÆR,www.aust-lofoten.vgs.no
+Node 24,4.9373147715195,60.78851817124121,Austrheim vidaregåande skule,post@vlfk.no,5943,AUSTRHEIM,skole.hfk.no/austrheimvgs
+Node 25,9.705648518657949,59.0447788653294,Bamble videregående skole,post@vtfk.no,3960,STATHELLE,www.croftholmen.vgs.no/
+Node 26,9.703206662825089,59.027611665593206,Bamble videregående skole,post@vtfk.no,3961,STATHELLE,www.bamble.vgs.no
+Node 27,18.485045676452803,69.0553276590177,Bardufoss videregående skole,postmottak@tffk.no,9325,BARDUFOSS,www.bardufoss.vgs.no
+Node 28,5.7372432971090195,58.96730645096189,Bergeland videregående skole,firmapost@rogfk.no,4012,STAVANGER,www.bergeland.vgs.no
+Node 29,5.35594947955499,60.3780450729959,Bergen Bibelskole,post@bergenbibelskole.no,5009,BERGEN,www.bergenbibelskole.no
+Node 30,5.33083754330706,60.393398239244696,Bergen katedralskole,post@vlfk.no,5017,BERGEN,skole.hfk.no/bergenkatedralskole
+Node 31,5.33362144242953,60.3854173111346,Bergen Maritime videregående skole,post@vlfk.no,5008,BERGEN,skole.hfk.no/nb-NO/skole/bergen-maritime-videregaende-skole/
+Node 32,5.3313787934716395,60.3874631114136,Bergen Private gymnas AS,post@bpg.no,5008,BERGEN,www.metis.no
+Node 33,5.11735386694338,60.3446186374532,Bibelskolen Bildøy,post@bildoybibelskole.no,5353,STRAUME,www.bbb.vgs.no
+Node 34,8.565931944978018,58.3116864325593,Bibelskolen i Grimstad,post@bibelskolen.no,4879,GRIMSTAD,www.bibelskolen.no
+Node 35,10.3923709487174,63.42861613659229,Bibelskolen i Trondheim,heidi@bibelskolenitrondheim.no,7012,TRONDHEIM,www.bibelskolenitrondheim.no
+Node 36,5.7396204507330895,58.96837370464971,Bibelskolen Link,academy@hillsong.no,4012,STAVANGER,hillsong.com/norway/academy
+Node 37,11.0153815796795,59.9817148182837,Bibelskolen Oslo Kristne Senter,bibelskolen@oks.no,2007,KJELLER,www.bibelskole.no
+Node 38,10.255656526289801,59.24916883839621,Bibelskolen på Fossnes,bibelskolen@nll.no,3160,STOKKE,www.fossnes.no
+Node 39,5.33865045201954,60.377219283967,Bibelskolen Substans,johnny@bibelskolensubstans.no,5053,BERGEN,www.substans.co
+Node 40,10.8364790898417,59.9410362729356,Bjerke videregående skole,postmottak@oslo.kommune.no,594,OSLO,bjerke.vgs.no
+Node 41,10.880188815034302,60.049009034200296,Bjertnes videregående skole,post@viken.no,1482,NITTEDAL,www.bjertnes.vgs.no/
+Node 42,11.5588830718627,59.88374387677921,Bjørkelangen videregående skole,post@viken.no,1940,BJØRKELANGEN,www.bjorkelangen.vgs.no/
+Node 43,10.8355837676261,59.834444782173605,Bjørnholt videregående skole,postmottak@oslo.kommune.no,1275,OSLO,bjornholt.vgs.no
+Node 44,10.4456022918129,59.8268760970652,Bleiker videregående skole,post@viken.no,1387,ASKER,www.bleiker.vgs.no/
+Node 45,10.7292981998636,59.95014628698279,Blindern videregående skole,postmottak@oslo.kommune.no,855,OSLO,blindern.vgs.no
+Node 46,14.5537492356636,67.28557629834371,Bodin videregående skole,post@nfk.no,8026,BODØ,www.bodin.vgs.no
+Node 47,14.384777124704799,67.27840459616,Bodø videregående skole,post@nfk.no,8005,BODØ,www.bodo.vgs.no
+Node 48,11.174259014288001,59.2657705939476,Borg videregående skole,post@viken.no,1739,BORGENHAUGEN,www.Borg.vgs.no/
+Node 49,6.37330467287509,62.4684352469252,Borgund vidaregåande skole,post@mrfylke.no,6011,ÅLESUND,www.borgund.vgs.no/
+Node 50,18.9643212327964,69.6779144122971,Breivang videregående skole,postmottak@tffk.no,9010,TROMSØ,www.breivang.vgs.no
+Node 51,10.2513762146481,59.7683791900128,Briskeby videregående skole AS,post.vgs@hlfbriskeby.no,3402,LIER,hlfbriskeby.no
+Node 52,10.4754593837335,63.42084410696529,Brundalen videregående skole,postmottak@trondelagfylke.no,7047,TRONDHEIM,
+Node 53,5.650211460277981,58.732356247279604,Bryne vidaregåande skule,firmapost@rogfk.no,4344,BRYNE,www.bryne.vgs.no/
+Node 54,12.212042552265197,65.46803805416121,Brønnøysund videregående skole,post@nfk.no,8900,BRØNNØYSUND,www.brsund.vgs.no
+Node 55,9.93128073458236,59.8949221833948,Buskerud videregående skole,post@viken.no,3340,ÅMOT,www.rosthaug.vgs.no/
+Node 56,10.400365496771801,63.4289959617548,Bybroen videregående skole AS,post@bybroen.vgs.no,7013,TRONDHEIM,www.bybroen.vgs.no
+Node 57,7.407797511840269,58.4268038811378,Byremo videregående skole,postmottak@agderfk.no,4529,BYREMO,www.byremo.vgs.no
+Node 58,10.3637570175849,63.3953835393822,Byåsen videregående skole,postmottak@trondelagfylke.no,7027,TRONDHEIM,byasen.vgs.no
+Node 59,9.062987436795321,59.417131238368995,Bø vidaregåande skule,post@vtfk.no,3802,BØ I TELEMARK,www.bo.vgs.no/
+Node 60,5.18949746197044,59.794179141020095,Bømlo vidaregåande skule,post@vlfk.no,5430,BREMNES,skole.hfk.no/bomlovgs
+Node 61,29.717717480864,70.6330321952353,Båtsfjord Private videregående skole AS,oeyvhauk@bpvsas.onmicrosoft.com,9990,BÅTSFJORD,www.bpvsas.com
+Node 62,29.717717480864,70.6330321952353,Båtsfjord videregående skole,postmottak@batsfjord.kommune.no,9990,BÅTSFJORD,www.batsfjord.vgs.no
+Node 63,10.4864021876781,63.4196678807455,Charlottenlund videregående skole,postmottak@trondelagfylke.no,7058,JAKOBSLI,www.charlottenlund.vgs.no
+Node 64,10.4666516542659,61.1160107605346,Create - Lillehammer Kreative videregående skole AS,bjarne.nyrud@create.no,2609,LILLEHAMMER,www.create.no
+Node 65,8.57795856717728,58.3379172631366,Dahlske videregående skole,postmottak@agderfk.no,4877,GRIMSTAD,www.dahlske.vgs.no
+Node 66,6.01064692034432,58.4647997925831,Dalane videregående skole,firmapost@rogfk.no,4373,EGERSUND,www.dalane.vgs.no
+Node 67,5.397864874688199,61.3597249877492,Dale vidaregåande skule,post@vlfk.no,6963,DALE I SUNNFJORD,www.dale.vgs.no/
+Node 68,5.3309517706962,60.392709332191295,Danielsen Intensivgymnas,intensivgymnaset@danielsen-skoler.no,5017,BERGEN,www.danielsen-skoler.no/intensiv
+Node 69,5.33068270513029,60.3929986672167,Danielsen videregående skole,danadm@danielsen-skoler.no,5017,BERGEN,www.danielsen-skoler.no
+Node 70,10.7256859469258,59.92509943280189,Den Tysk-Norske Skolen i Oslo,sekretariat@deutsche-schule.no,354,OSLO,www.deutscheschule.no
+Node 71,10.080375948707198,60.838845995624396,Dokka videregående skole,,2870,DOKKA,www.dokka.vgs.no/
+Node 72,10.198225503672301,59.7372832351575,Drammen videregående skole,post@viken.no,3045,DRAMMEN,www.drammen.vgs.no
+Node 73,8.64152276168177,58.34851201385511,Drottningborg Vgs AS,post@drottningborg.vgs.no,4885,GRIMSTAD,www.drottningborg.vgs.no/
+Node 74,10.867014792461697,59.71573323504229,Drømtorp videregående skole,post@viken.no,1400,SKI,www.dromtorp.vgs.no
+Node 75,10.5066175507378,59.9067789802361,Dønski videregående skole,post@viken.no,1346,GJETTUM,www.donski.vgs.no
+Node 76,10.7435606496697,59.918631171427,Edvard Munch videregående skole,postmottak@oslo.kommune.no,165,OSLO,edvardmunch.vgs.no
+Node 77,5.98324973796839,61.9135481028756,Eid vidaregåande skule,post@vlfk.no,6770,NORDFJORDEID,www.eid.vgs.no
+Node 78,11.263110051003402,60.337113231356604,Eidsvoll videregående skole,post@viken.no,2080,EIDSVOLL,www.eidsvoll.vgs.no/
+Node 79,10.601641103669,59.9361844653882,Eikeli videregående skole,post@viken.no,1362,HOSLE,www.eikeli.vgs.no/
+Node 80,10.7640246098326,59.9502971703357,Eikelund videregående skole,postmottak@oslo.kommune.no,484,OSLO,eikelund.vgs.no
+Node 81,9.903880028882421,59.7731786082893,Eiker videregående skole,post@viken.no,3300,HOKKSUND,www.eiker.vgs.no/
+Node 82,7.0667703774321,58.135237764364796,Eilert Sundt videregående skole,postmottak@agderfk.no,4580,LYNGDAL,eilertsundt.vgs.no
+Node 83,6.68880642387519,58.0935714904907,Eilert Sundt videregående skole,postmottak@agderfk.no,4560,VANSE,eilertsundt.vgs.no
+Node 84,6.804476724345631,58.0932903725335,Eilert Sundt videregående skole,postmottak@agderfk.no,4550,FARSUND,eilertsundt.vgs.no
+Node 85,10.7529182973868,59.9190010441036,Elvebakken videregående skole,postmottak@oslo.kommune.no,182,OSLO,elvebakken.vgs.no
+Node 86,11.5633844179371,60.8770256419304,Elverum videregående skole,,2414,ELVERUM,www.elverum.vgs.no/
+Node 87,10.796447645420802,59.9096805428209,Etterstad videregående skole,postmottak@oslo.kommune.no,660,OSLO,etterstad.vgs.no
+Node 88,10.8134091835321,59.4650876950299,Evangeliesenterets Bibelskole,post@ebsbibelskole.no,1591,SPERREBOTN,www.ebsbibelskole.no
+Node 89,6.22824033573564,62.4743732210818,Fagerlia videregående skole,post@mrfylke.no,6009,ÅLESUND,www.fagerlia.vgs.no/
+Node 90,5.731091033363611,58.964849238557605,Fagopplæringen i Rogaland,firmapost@rogfk.no,4010,STAVANGER,
+Node 91,5.30621876242167,60.3981097272947,Fagskolen i Hordaland,post@vlfk.no,5005,BERGEN,www.tekniken.no
+Node 92,7.14126610364031,62.7344967976581,Fannefjord videregående skole,post@mrfylke.no,6412,MOLDE,www.fannefjord.vgs.no/
+Node 93,15.375248846851802,67.2626057023205,Fauske videregående skole,post@nfk.no,8207,FAUSKE,www.fauske.vgs.no
+Node 94,10.7374427482129,59.9178112007865,Filadelfia Bibelskole,bibelskolen@filadelfia.no,166,OSLO,www.fbo.no
+Node 95,6.22051353145815,61.773878937021706,Firda vidaregåande skule,post@vlfk.no,6823,SANDANE,firda.vgs.no/
+Node 96,5.32093110913861,59.9202984112247,Fitjar vidaregåande skule,post@vlfk.no,5419,FITJAR,skole.hfk.no/fitjarvgs
+Node 97,10.785487487697802,59.9298717467706,Fjellhaug Bibelskole,bibelskolen@fjellhaug.no,572,OSLO,www.fjellhaug.no
+Node 98,18.9308674587996,69.6386898362084,Fjellheim Bibelskole,post@fjellheimbibelskole.no,9006,TROMSØ,www.fjellheimbibelskole.no
+Node 99,6.66540974911391,58.30409688196671,Flekkefjord videregående skole,postmottak@agderfk.no,4405,FLEKKEFJORD,flekkefjord.vgs.no
+Node 100,6.957452922635599,58.3152763768847,Flekkefjord videregående skole,postmottak@agderfk.no,4480,KVINESDAL,flekkefjord.vgs.no
+Node 101,5.0435534920024,61.593895113757604,Flora vidaregåande skule,post@vlfk.no,6906,FLORØ,www.flora.vgs.no
+Node 102,9.819353921408538,63.7657098259832,Fosen videregående skole,postmottak@trondelagfylke.no,7160,BJUGN,www.fosen.vgs.no
+Node 103,10.7554360153644,59.9270419432455,Foss videregående skole,postmottak@oslo.kommune.no,554,OSLO,foss.vgs.no
+Node 104,6.182859509307019,60.34976694574139,Framnes Kristne vidaregåande skule,postmottak@framnes.vgs.no,5600,NORHEIMSUND,www.framnes.vgs.no
+Node 105,10.925685944603,59.2236314283371,Frederik Ii videregående skole,post@viken.no,1613,FREDRIKSTAD,www.frederikii.vgs.no/
+Node 106,10.660596821579801,59.692402140126,Frogn videregående skole,post@viken.no,1449,DRØBAK,
+Node 107,7.1543637452774105,62.8547841514182,Fræna vidaregåande skole,post@mrfylke.no,6440,ELNESVÅGEN,www.frana.vgs.no
+Node 108,6.88863466160541,62.808029747923406,Fræna vidaregåande skule,post@mrfylke.no,6480,AUKRA,
+Node 109,5.74872973529448,60.2389659568408,Fusa vidaregåande skule,post@vlfk.no,5640,EIKELANDSOSEN,skole.hfk.no/fusavgs
+Node 110,5.28765596534075,60.3474358260823,Fyllingsdalen videregående skole,post@vlfk.no,5143,FYLLINGSDALEN,skole.hfk.no/fyllingsdalenvgs
+Node 111,10.7943256493165,59.915255552852706,Fyrstikkalleen skole,postmottak@oslo.kommune.no,661,OSLO,f21.vgs.no
+Node 112,10.4104372875824,59.2610951009015,Færder videregående skole,post@vtfk.no,3127,TØNSBERG,ferdervgs.vtfk.no/
+Node 113,5.73655778677191,58.8470164911071,Gand videregående skole,firmapost@rogfk.no,4306,SANDNES,www.gand.vgs.no
+Node 114,7.172828065802141,62.739718857565606,Garno AS,petter@alvik.as,6415,MOLDE,
+Node 115,10.2874060603817,63.0361324934802,Gauldal videregående skole,postmottak@trondelagfylke.no,7290,STØREN,www.gauldal.vgs.no
+Node 116,10.213113054167,61.2247703235495,Gausdal videregående skole,,2651,ØSTRE GAUSDAL,www.gausdal.vgs.no/
+Node 117,10.273983055547,59.2303177712583,Gjennestad videregående skole,post@gjennestadvgs.no,3160,STOKKE,www.gjennestadvgs.no
+Node 118,10.678432268689999,60.80272297816379,Gjøvik videregående skole,,2819,GJØVIK,www.gjovik.vgs.no/
+Node 119,10.941821749995,59.21893598081571,Glemmen videregående skole,post@viken.no,1605,FREDRIKSTAD,www.glemmen.vgs.no/
+Node 120,5.75185343737445,58.9537669656908,Godalen videregående skole,firmapost@rogfk.no,4015,STAVANGER,www.godalen.vgs.no
+Node 121,8.943763605031231,60.7027470186625,Gol vidaregåande skule,post@viken.no,3550,GOL,www.gol.vgs.no/
+Node 122,10.415090859018699,59.28730252497189,Greveskogen videregående skole,post@vtfk.no,3122,TØNSBERG,nyweb.vfk.no/skoler/greveskogen-vgs/
+Node 123,11.0281127722789,59.2758194966068,Greåker videregående skole,post@viken.no,1719,GREÅKER,www.greaker.vgs.no
+Node 124,12.313748779393102,64.4617928821325,Grong videregående skole,postmottak@trondelagfylke.no,7870,GRONG,www.grong.vgs.no/
+Node 125,10.576804881451,60.3552624832304,Hadeland videregående skole,,2750,GRAN,www.hadeland.vgs.no
+Node 126,14.9096607149213,68.5667050725287,Hadsel videregående skole,post@nfk.no,8450,STOKMARKNES,www.hadsel.vgs.no
+Node 127,5.86422227496448,61.4499062843911,Hafstad videregående skule,post@vlfk.no,6800,FØRDE,www.hafstad.vgs.no/
+Node 128,11.394400726291302,59.1255095227751,Halden videregående skole,post@viken.no,1772,HALDEN,www.ostfold-f.kommune.no
+Node 129,11.0542572159981,60.80586275388289,Hamar katedralskole,,2315,HAMAR,www.hamar-katedral.vgs.no/
+Node 130,23.6636318315587,70.67067110576791,Hammerfest videregående skole,postmottak@tffk.no,9601,HAMMERFEST,www.hammerfest.vgs.no
+Node 131,9.245249692799302,61.988305785891896,Handverksskolen AS,post@hjerleid.no,2662,DOVRE,www.hjerleid.no
+Node 132,10.9385998524983,59.2117418578181,Hans Nielsen Hauge videregående skole,post@hnhvgs.no,1606,FREDRIKSTAD,hnh.vgs.no
+Node 133,6.4406842677229905,62.595092889032,Haram vidaregåande skule,post@mrfylke.no,6270,BRATTVÅG,www.haram.vgs.no/
+Node 134,6.926709895438429,60.5620234969879,Hardanger Produksjonsskule,post@vlfk.no,5730,ULVIK,skole.hfk.no/hjeltnesvgs
+Node 135,10.7166360564858,59.9185786790625,Hartvig Nissens skole,postmottak@oslo.kommune.no,259,OSLO,hartvig-nissen.vgs.no
+Node 136,5.291156389652469,59.4095375495576,Haugaland videregående skole,firmapost@rogfk.no,5531,HAUGESUND,www.haugaland.vgs.no
+Node 137,5.26195772209785,59.37467026501329,Hauge videregående skole,post@abr-vgs.no,4260,TORVASTAD,www.abr-vgs.com
+Node 138,5.274313704621781,59.4257594662731,Haugesund Toppidrettsgymnas AS,adm@htg.vgs.no,5518,HAUGESUND,www.htg.vgs.no
+Node 139,10.862604331800599,59.9232993506879,Haukåsen skole,postmottak@oslo.kommune.no,675,OSLO,haukasen.osloskolen.no/
+Node 140,12.1337719046246,65.46980894892671,Havbruksakademiet AS,post@havbruksakademiet.com,8909,BRØNNØYSUND,www.havbruksakademiet.com
+Node 141,16.5252075362815,68.7938519642952,Heggen videregående skole,postmottak@tffk.no,9406,HARSTAD,www.heggen.vgs.no
+Node 142,10.3525711519605,63.365937804875095,Heimdal videregående skole,postmottak@trondelagfylke.no,7078,SAUPSTAD,www.heimdal.vgs.no
+Node 143,10.840193530148001,59.914389815925595,Hellerud videregående skole,postmottak@oslo.kommune.no,671,OSLO,hellerud.vgs.no
+Node 144,11.1026687854191,60.7774219806456,Helsepedagogisk Steinerskole på Hedemarken,hedemarken@steinerskolen.no,2312,OTTESTAD,www.hedemarken.steinerskolen.no
+Node 145,10.7324157657604,59.94909584993339,Heltberg Private gymnas,post@heltberg.oslo.no,855,OSLO,www.heltberg.no/
+Node 146,10.7317909263016,59.9234478358823,Heltberg Private gymnas Bislett AS,bislett@heltberg.no,167,OSLO,www.heltberg.no
+Node 147,10.1715685022047,59.7487314653549,Heltberg Private gymnas Drammen AS,drammen@heltberg.no,3023,DRAMMEN,www.heltberg.no
+Node 148,10.7640345053082,59.9181252941317,Hersleb videregående skole,postmottak@oslo.kommune.no,561,OSLO,hersleb.vgs.no
+Node 149,5.638209063682719,62.33452668863521,Herøy vidaregåande skule,post@mrfylke.no,6091,FOSNAVÅG,www.heroy.vgs.no/
+Node 150,5.737303295990889,58.934304762716295,Hetland videregående skole,firmapost@rogfk.no,4017,STAVANGER,www.hetland.vgs.no
+Node 151,9.59660222079697,59.185829979595795,Hjalmar Johansen videregående skole,post@vtfk.no,3733,SKIEN,www.hjalmarjohansen.vgs.no
+Node 152,10.4874622576248,59.865934776309096,Holmen skole,post@viken.no,1396,BILLINGSTAD,www.holmen.vgs.no/
+Node 153,10.2886063838009,59.4829338088554,Holmestrand videregående skole,post@vtfk.no,3085,HOLMESTRAND,hsvs.vtfk.no/
+Node 154,10.7856412325815,59.8854470067265,Holtet videregående skole,postmottak@oslo.kommune.no,1178,OSLO,holtet.vgs.no
+Node 155,5.22200284913886,60.4660393558805,Hop videregående skole AS,post@hopvgskole.no,5307,ASK,www.hopvgskole.no
+Node 156,11.182659954985,60.15227466270039,Hoppensprett Akademiet Vgs Jessheim AS,,2069,JESSHEIM,
+Node 157,10.488199734320402,59.4208384809783,Horten videregående skole,post@vtfk.no,3183,HORTEN,www.vfk.no/Horten-vgs/
+Node 158,11.3754422021018,60.104282884168605,Hvam videregående skole,post@viken.no,2165,HVAM,www.hvam.vgs.no/
+Node 159,5.33257086195252,60.3865702118711,Hyssingen Produksjonsskole,post@vlfk.no,5008,BERGEN,
+Node 160,10.2552784432406,60.1573210214296,Hønefoss videregående skole,post@viken.no,3511,HØNEFOSS,www.honefoss.vgs.no/
+Node 161,6.08028480396842,61.221330716314,Høyanger vidaregåande skule,post@vlfk.no,6993,HØYANGER,www.hoyanger.vgs.no/
+Node 162,11.286290035185699,63.8772918061391,Inderøy videregående skole,postmottak@trondelagfylke.no,7670,INDERØY,inderoy.vgs.no/
+Node 163,5.65417028981866,58.9500544897495,International School Of Stavanger,info@isstavanger.no,4043,HAFRSFJORD,www.isstavanger.no
+Node 164,18.9812221670683,69.67968810821979,Ishavsbyen videregående skole,postmottak@tffk.no,9019,TROMSØ,www.ishavsbyen.vgs.no/
+Node 165,11.144424947188302,60.070630500806296,Jessheim videregående skole,post@viken.no,2040,KLØFTA,
+Node 166,11.1624549532022,60.146078665933196,Jessheim videregående skole,post@viken.no,2066,JESSHEIM,www.jessheim.vgs.no
+Node 167,10.6204684510735,63.6772747721066,Johan Bojer videregående skole,postmottak@trondelagfylke.no,7120,LEKSVIK,www.leksvik.vgs.no/
+Node 168,10.0733629,63.629702,Johan Bojer videregående skole,postmottak@trondelagfylke.no,7100,RISSA,www.rissa.vgs.no
+Node 169,11.207907663998801,60.7514182044469,Jønsberg videregående skole,,2335,STANGE,www.jonsberg.vgs.no
+Node 170,5.72784486327953,58.9135649395572,Jåttå videregående skole,firmapost@rogfk.no,4020,STAVANGER,jaattaa.vgs.no
+Node 171,11.046888564812699,59.314619624577595,Kalnes videregående skole,post@viken.no,1712,GRÅLUM,www.kalnes.vgs.no
+Node 172,5.283198770217,59.400744334594094,Karmsund videregående skole,firmapost@rogfk.no,5529,HAUGESUND,www.karmsund.vgs.no
+Node 173,29.997556705377,69.6880943940461,Kirkenes videregående skole,postmottak@tffk.no,9912,HESSENG,www.kirkenes.vgs.no
+Node 174,10.6632427797766,59.435248575972096,Kirkeparken videregående skole,post@viken.no,1530,MOSS,www.kirkeparken.vgs.no/
+Node 175,10.7370581766643,59.936935930021704,Kirkeveien videregående skole,postmottak@oslo.kommune.no,450,OSLO,
+Node 176,5.11155001825,61.937322646161796,Klokkergårdstiftelsen,,6700,MÅLØY,www.klokkergarden.no
+Node 177,5.28198286982204,60.5502543904885,Knarvik vidaregåande skule,post@vlfk.no,5916,ISDALSTØ,skole.hfk.no/knarvikvgs
+Node 178,15.6206067201793,68.0839150793254,Knut Hamsun videregående skole,post@nfk.no,8294,HAMARØY,www.hamsun.vgs.no/
+Node 179,10.399596748676302,59.2742131882462,Kompetansebyggeren,post@vtfk.no,3111,TØNSBERG,www.kompetansebyggeren.no
+Node 180,18.948992699235802,69.6498714691111,Kongsbakken videregående skole,postmottak@tffk.no,9008,TROMSØ,www.kongsbakken.vgs.no
+Node 181,9.647671938576009,59.6694634571258,Kongsberg videregående skole,post@viken.no,3611,KONGSBERG,www.kongsberg.vgs.no
+Node 182,5.38533935817194,60.151289474342896,Kongshaug Musikkgymnas,orotvik@kongshaug.no,5216,LEPSØY,www.kongshaug.no
+Node 183,10.758245315757899,59.897386237587604,Kongshavn videregående skole,postmottak@oslo.kommune.no,193,OSLO,kongshavn.vgs.no
+Node 184,10.789915380402501,59.9147407297153,Kongsskogen videregående skole,postmottak@oslo.kommune.no,661,OSLO,kongsskogen.vgs.no
+Node 185,10.373879957483599,59.806602240728296,Kongsskogen videregående skole,postmottak@oslo.kommune.no,1385,ASKER,
+Node 186,5.28347172339419,59.2804768145645,Kopervik videregående skole,firmapost@rogfk.no,4250,KOPERVIK,kopervik.vgs.no/
+Node 187,9.40858289139064,58.864607020003604,Kragerø kunstskole AS,rektor@kragerokunstskole.no,3770,KRAGERØ,www.kragerokunstskole.no
+Node 188,9.39179029861128,58.8714485512096,Kragerø videregående skole,post@vtfk.no,3772,KRAGERØ,www.kragero.vgs.no/
+Node 189,10.7295372196524,59.923809697666705,Kristelig gymnasium,kg@kg.vgs.no,352,OSLO,www.kg.vgs.no/
+Node 190,7.96451720070733,58.251715507260506,Kristen Vgs Vennesla AS,post@kv.vgs.no,4708,VENNESLA,www.kv.vgs.no
+Node 191,5.31120213540702,59.3821422996352,Kristen videregående skole Haugalandet AS,rektor@kvh.vgs.no,5542,KARMSUND,kvh.vgs.no
+Node 192,10.3815970647744,63.360096546402204,Kristen videregående skole Trøndelag,kvt@kvt.vgs.no,7075,TILLER,www.kvt.vgs.no
+Node 193,8.01043600558352,58.1599562899377,Kristiansand katedralskole Gimle,postmottak@agderfk.no,4630,KRISTIANSAND S,www.kkg.vgs.no
+Node 194,7.71947477392732,63.1201417588972,Kristiansund videregående skole,post@mrfylke.no,6514,KRISTIANSUND N,www.krsund.vgs.no/
+Node 195,5.287642301282941,60.2229467554475,Krokeide videregående skole AS,firmapost@krokeide.vgs.no,5244,FANA,www.krokeide.vgs.no
+Node 196,10.816307003749401,59.927335714377,Kuben videregående skole,postmottak@oslo.kommune.no,580,OSLO,kuben.vgs.no
+Node 197,10.816307003749401,59.927335714377,Kuben Yrkesarena,postmottak@oslo.kommune.no,580,OSLO,kuben.vgs.no
+Node 198,8.0021171142863,58.1493371701261,Kvadraturen videregående skole,postmottak@agderfk.no,4614,KRISTIANSAND S,www.kvadraturen.vgs.no
+Node 199,18.7916887765645,69.684629764277,Kvaløya videregående skole,postmottak@tffk.no,9104,KVALØYA,www.kvaloya.vgs.no
+Node 200,6.19280557177979,60.387801287048795,Kvam vidaregåande skule,post@vlfk.no,5610,ØYSTESE,skole.hfk.no/oystesegymnas
+Node 201,5.74275703707475,59.85058690729879,Kvinnherad vidaregåande skule,post@vlfk.no,5460,HUSNES,skole.hfk.no/kvinnheradvgs
+Node 202,8.52013044073292,59.381349420611706,Kvitsund gymnas,admin@kvitsund.vgs.no,3850,KVITESEID,www.kvitsund.vgs.no
+Node 203,7.802804741870349,58.8310270217544,Kvs-Bygland AS,post@kvs-bygland.no,4745,BYGLAND,www.kvs-bygland.no
+Node 204,7.05023842651024,58.1242526754527,Kvs-Lyngdal AS,post@kvs-lyngdal.no,4580,LYNGDAL,kvslyngdal.no
+Node 205,9.080642662873132,63.29125316398171,Kyrksæterøra videregående skole,postmottak@trondelagfylke.no,7200,KYRKSÆTERØRA,www.hemne.vgs.no/
+Node 206,24.971113869575802,70.0490854114847,Lakselv videregående skole,postmottak@tffk.no,9700,LAKSELV,www.lakselv.vgs.no
+Node 207,5.26806111252167,60.384042609937204,Laksevåg videregående skole,post@vlfk.no,5165,LAKSEVÅG,skole.hfk.no/laksevagvgs
+Node 208,10.810410515845499,59.878884598677104,Lambertseter videregående skole,postmottak@oslo.kommune.no,1153,OSLO,lambertseter.vgs.no
+Node 209,5.36216521226591,60.362531216816905,Langhaugen videregående skole,post@vlfk.no,5093,BERGEN,skole.hfk.no/langhaugenvgs
+Node 210,10.812069246564,60.6772333338706,Lena-Valle videregående skole,,2850,LENA,www.lena-valle.vgs.no
+Node 211,10.8180803299109,60.67647145084721,Lena-Valle videregående skole,,2850,LENA,www.lena-valle.vgs.no
+Node 212,8.0026565420625,58.148281396759,Lev Bibelskole,,4608,KRISTIANSAND S,
+Node 213,11.2872510012135,63.74288791643271,Levanger videregående skole,postmottak@trondelagfylke.no,7600,LEVANGER,www.levanger.vgs.no/
+Node 214,10.2452220988105,59.7572861199151,Lier videregående skole,post@viken.no,3413,LIER,www.lier.vgs.no/
+Node 215,10.445108253617699,61.13359959396689,Lillehammer videregående skole,,2619,LILLEHAMMER,www.lillehammer.vgs.no
+Node 216,10.4697745590855,61.1122491880548,Lillehammer videregående skole,,2609,LILLEHAMMER,www.lillehammer.vgs.no/
+Node 217,8.36270629923513,58.2601416181845,Lillesand videregående skole,postmottak@agderfk.no,4790,LILLESAND,www.moglestu.vgs.no
+Node 218,11.04719381273,59.960407065135705,Lillestrøm videregående skole,post@viken.no,2003,LILLESTRØM,www.lillestrom.vgs.no
+Node 219,10.8044244828422,59.8498976441879,Ljabruskolen - Steinerskole for Elever Med Spesielle Behov,ljabruskolen@steinerskolen.no,1165,OSLO,www.ljabruskolen@steinerskolen.no
+Node 220,15.611608499735201,78.21021711761841,Longyearbyen skole,postmottak@lokalstyre.no,9170,LONGYEARBYEN,
+Node 221,10.483508395093,63.438956319652995,Lukas videregående skole AS,post@lukas.vgs.no,7053,RANHEIM,www.lukas.vgs.no
+Node 222,5.772947237190301,59.6080893963591,Lundeneset Vgs,post@lvs.no,5582,ØLENSVÅG,www.lvs.no
+Node 223,10.7172886647187,59.9170179913311,Lycee Francais Rene Cassin,secretariat@rcassin.no,257,OSLO,www.rcassin.no
+Node 224,10.984762128598799,59.9321425093352,Lørenskog videregående skole,post@viken.no,1474,LØRENSKOG,www.lorenskog.vgs.no/
+Node 225,10.9600619045747,59.9294690911651,Mailand videregående skole,post@viken.no,1470,LØRENSKOG,
+Node 226,10.668695593025301,59.42746339894651,Malakoff videregående skole,post@viken.no,1532,MOSS,www.malakoff.vgs.no/
+Node 227,10.6286025990826,63.4369107425865,Malvik videregående skole,postmottak@trondelagfylke.no,7560,VIKHAMMER,web.trondelagfylke.no/malvik-videregaende-skole
+Node 228,7.43858171174832,58.0257314431901,Mandal videregående skole,postmottak@agderfk.no,4514,MANDAL,www.mandal.vgs.no/
+Node 229,9.70122358156398,63.1070596766187,Meldal videregående skole,postmottak@trondelagfylke.no,7332,LØKKEN VERK,meldal.vgs.no/
+Node 230,10.263585707239198,63.2850090785108,Melhus videregående skole,postmottak@trondelagfylke.no,7224,MELHUS,www.melhus.vgs.no/
+Node 231,14.436537936636801,67.28614108346859,Mellomåsen Skolesenter,post@nfk.no,8076,BODØ,
+Node 232,10.343202616496802,59.229765227426604,Melsom videregående skole,post@vtfk.no,3159,MELSOMVIK,nyweb.vfk.no/skoler/melsom-vgs/
+Node 233,13.966654227813098,66.81437769288961,Meløy videregående skole,post@nfk.no,8160,GLOMFJORD,www.meloy.vgs.no/
+Node 234,14.019629028259098,67.0359504929683,Meløy videregående skole,post@nfk.no,8140,INNDYR,www.meloy.vgs.no
+Node 235,11.731053475167698,63.414123780769394,Meråker videregående skole,postmottak@trondelagfylke.no,7530,MERÅKER,www.meraker.vgs.no/
+Node 236,5.3313787934716395,60.3874631114136,Metis videregående AS,vgs.bergen@metis.no,5008,BERGEN,www.metis.no
+Node 237,10.423963114840198,63.4225103015275,Misjonsskolen Gå Ut Senteret,post@gus.no,7052,TRONDHEIM,www.gus.no
+Node 238,5.85221400069989,61.456277890757505,Mo og Øyrane vidaregåande skule,post@vlfk.no,6800,FØRDE,www.oyrane.vgs.no
+Node 239,7.16433198004628,62.7396663137697,Molde videregående skole,post@mrfylke.no,6413,MOLDE,www.molde.vgs.no
+Node 240,10.362145321912802,63.3415317983426,Momo Waldorfskole AS,momo@steinerskolen.no,7072,HEIMDAL,www.momowaldorfskole.no
+Node 241,13.193983212133999,65.83783473374251,Mosjøen videregående skole,post@nfk.no,8656,MOSJØEN,www.mosjoen.vgs.no
+Node 242,8.9285572109641,58.6259792986496,Motio AS,post@motio.no,4900,TVEDESTRAND,www.motio.no
+Node 243,11.329257422537598,59.557164731617604,Mysen videregående skole,post@viken.no,1850,MYSEN,www.mysen.vgs.no/
+Node 244,11.325925960051698,59.565393577870296,Møbelsnekkerskolen AS,post@mobelsnekker.no,1850,MYSEN,mobelsnekker.no
+Node 245,5.17102268523878,61.918654810505295,Måløy vidaregåande skule,post@vlfk.no,6718,DEKNEPOLLEN,www.maloy.vgs.no/
+Node 246,10.573381317744401,59.915783829503205,Nadderud videregående skole,post@viken.no,1357,BEKKESTUA,www.nadderud.vgs.no/
+Node 247,11.0202790385321,60.2199152966949,Nannestad videregående skole,post@viken.no,2030,NANNESTAD,www.nannestad.vgs.no/
+Node 248,17.3983084167738,68.4390747144178,Narvik videregående skole,post@nfk.no,8516,NARVIK,www.narvik.vgs.no
+Node 249,10.8805103721598,59.9362033795519,Natur videregående skole,Post@Natur.vgs.no,1081,OSLO,natur.vgs.no
+Node 250,11.4799629223916,60.12494176509,Nes videregående skole,post@viken.no,2150,ÅRNES,www.nes.vgs.no/
+Node 251,10.4851714428403,59.8670294277629,Nesbru videregående skole,post@viken.no,1396,BILLINGSTAD,www.nesbru.vgs.no/
+Node 252,10.6778780812466,59.8396482762962,Nesodden videregående skole,post@viken.no,1459,NESODDEN,www.nesodden.vgs.no/
+Node 253,14.3763903066546,67.28043801184499,Nettskolen i Nordland,post@nfk.no,8005,BODØ,
+Node 254,9.10649637822119,59.3007561452048,Nome videregående skole,post@vtfk.no,3825,LUNDE,www.nome.vgs.no
+Node 255,9.284048221452839,59.2789643419504,Nome videregående skole,post@vtfk.no,3830,ULEFOSS,www.nome.vgs.no/
+Node 256,5.32451976329486,60.2991799491128,Nordahl Grieg videregående skole,post@vlfk.no,5239,RÅDAL,skole.hfk.no/nordahlgriegvgs
+Node 257,17.9965781637128,69.2291199153669,Nordborg Vgs,post@nordborg.no,9300,FINNSNES,www.nordborg.vgs.no
+Node 258,8.56298350860613,61.84065904054751,Nord-Gudbrandsdal Videregåande skule,,2686,LOM,www.n-g.vgs.no
+Node 259,9.11998567605399,62.075241797673996,Nord-Gudbrandsdal Videregåande skule,,2660,DOMBÅS,www.n-g.vgs.no
+Node 260,9.54064727931667,61.778250658456294,Nord-Gudbrandsdal Videregåande skule,,2670,OTTA,www.n-g.vgs.no
+Node 261,25.968861476750302,70.97849428605741,Nordkapp videregående skole,postmottak@tffk.no,9750,HONNINGSVÅG,www.hvag.vgs.no/
+Node 262,19.5710279873063,69.218027242298,Nordkjosbotn videregående skole,postmottak@tffk.no,9040,NORDKJOSBOTN,www.nordkjosbotn.vgs.no
+Node 263,14.4744656055058,68.20831007113149,Nordland Kunst- og Filmfagskole,post@nfk.no,8310,KABELVÅG,www.kunstfilm.no/
+Node 264,20.9735689087436,70.02738597378,Nord-Troms videregående skole,postmottak@tffk.no,9180,SKJERVØY,www.nordtroms.vgs.no
+Node 265,20.9971122322737,69.7694991396283,Nord-Troms videregående skole,postmottak@tffk.no,9151,STORSLETT,www.nordtroms.vgs.no
+Node 266,10.7718531246176,62.2700723389713,Nord-Østerdal videregående skole,,2500,TYNSET,www.nord-osterdal.vgs.no/
+Node 267,16.5131044677062,68.5534059441195,Norges Brannskole,postmottak@jd.dep.no,9441,FJELLDAL,
+Node 268,10.6801326633974,60.952552699225905,Norges Grønne Fagskole - Vea,postmottak@kd.dep.no,2390,MOELV,www.Vea-fs.no
+Node 269,10.52418,59.8909,Norges Realfagsgymnas Bærum AS,post@nrg.no,1337,SANDVIKA,www.nrg.no
+Node 270,10.591137119552199,59.9256088990998,Norges Toppidrettsgymnas Bærum AS,berum@ntg.no,1357,BEKKESTUA,www.ntg.no
+Node 271,8.20139,60.4461,Norges Toppidrettsgymnas Geilo AS,geilo@ntg.no,3580,GEILO,www.ntg.no
+Node 272,12.005419753914799,60.1912873519197,Norges Toppidrettsgymnas Kongsvinger AS,kongsvinger@ntg.no,2212,KONGSVINGER,www.ntg.no
+Node 273,10.472767574254402,61.1249953828953,Norges Toppidrettsgymnas Lillehammer AS,lillehammer@ntg.no,2618,LILLEHAMMER,www.ntg.no
+Node 274,18.9350174314609,69.64967354686671,Norges Toppidrettsgymnas Tromsø AS,tromso@ntg.no,9007,TROMSØ,www.ntg.no
+Node 275,10.72023,59.911519999999996,Norsk Restaurantskole,laila@oppla.no,191,OSLO,www.norskrestaurantskole.no
+Node 276,10.592666699999999,59.774589600000006,Norsk Yrkesdykkerskole AS,faktura@nyd.no,1454,FAGERSTRAND,www.nyd.no
+Node 277,9.257711933847482,59.5553012191455,Notodden videregående skole,post@vtfk.no,3674,NOTODDEN,www.notodden.vgs.no
+Node 278,10.59101,59.925619999999995,Ntg Bodø AS,bodo@ntg.no,8003,BODØ,
+Node 279,9.007554126452721,60.1691862207237,Numedal videregående skole,post@viken.no,3629,NORE,www.numedal_vgs.numedal.net/
+Node 280,10.766680000000001,59.94883000000001,Nydalen videregående skole,postmottak@oslo.kommune.no,484,OSLO,nydalen.vgs.no
+Node 281,10.4041834122663,59.224486763498895,Nøtterøy videregående skole,post@vtfk.no,3140,NØTTERØY,vfk.no/skoler/notteroy-vgs/
+Node 282,6.54551,60.0562,Odda vidaregåande skule,post@vlfk.no,5750,ODDA,skole.hfk.no/oddavgs
+Node 283,11.541608829758001,64.4720061759694,Olav Duun videregående skole,postmottak@trondelagfylke.no,7805,NAMSOS,www.olav-duun.vgs.no
+Node 284,10.9328,63.4725,Ole Vig videregående skole,postmottak@trondelagfylke.no,7505,STJØRDAL,www.ole-vig.vgs.no/
+Node 285,5.2204672,60.3790885,Olsvikåsen videregående skole,post@vlfk.no,5183,OLSVIK,skole.hfk.no/olsvikasenvgs
+Node 286,9.67632878212855,62.5974974866769,Oppdal videregående skole,postmottak@trondelagfylke.no,7340,OPPDAL,www.oppdal.vgs.no
+Node 287,9.844666,63.2831639,Orkdal vidaregåande skole,postmottak@trondelagfylke.no,7300,ORKANGER,www.orkdal.vgs.no
+Node 288,5.45895549663454,60.195090544894,Os gymnas,post@vlfk.no,5200,OS,skole.hfk.no/osgymnas
+Node 289,5.44303,60.196999999999996,Os vidaregåande skule,post@vlfk.no,5210,OS,skole.hfk.no/osvgs
+Node 290,10.7432,59.9182,Oslo By Steinerskole,info@oslo-bysteinerskole.no,165,OSLO,
+Node 291,10.7522056546968,59.9283190186715,Oslo Fotokunstskole AS,post@oslofotokunstskole.no,175,OSLO,www.oslofotokunstskole.no
+Node 292,10.7206025001816,59.913993106863394,Oslo Handelsgymnasium,postmottak@oslo.kommune.no,254,OSLO,ohg.vgs.no
+Node 293,10.58162,59.919369999999994,Oslo International School,ois.main@oslois.no,1357,BEKKESTUA,www.oslointernationalschool.no
+Node 294,10.7416015028947,59.921145807185205,Oslo katedralskole,postmottak@oslo.kommune.no,171,OSLO,oslo-katedral.vgs.no
+Node 295,10.7240519,59.9108328,Oslo Private gymnasium AS,info@opg.vgs.no,250,OSLO,
+Node 296,10.9220213,59.9547372,Oslo voksenopplæring Helsfyr,postmottak@oslo.kommune.no,661,OSLO,helsfyr.oslovo.no/
+Node 297,10.7754661413362,59.93086923079921,Oslo voksenopplæring Rosenhof,postmottak@oslo.kommune.no,569,OSLO,rosenhof.oslovo.no/
+Node 298,10.787102085655999,59.932607180013,Oslo voksenopplæring Sinsen,postmottak@oslo.kommune.no,585,OSLO,sinsen.oslovo.no/
+Node 299,5.49505509639554,60.52650989388739,Osterøy vidaregåande skule,post@vlfk.no,5282,LONEVÅG,skole.hfk.no/osteroyvgs
+Node 300,10.7383786448348,59.9112091928644,Otto Treider Private gymnas AS,info@ottotreider.no,158,OSLO,www.ottotreider.no
+Node 301,10.656032699999999,59.94542020000001,Persbråten videregående skole,postmottak@oslo.kommune.no,768,OSLO,persbraten.vgs.no
+Node 302,10.9535,59.2036,Plus-Skolen AS,post@plus-skolen.no,1632,GAMLE FREDRIKSTAD,www.plus-skolen.no/
+Node 303,14.1565395,66.3309366,Polarsirkelen videregående skole,post@nfk.no,8622,MO I RANA,www.polarsirkelen.vgs.no/
+Node 304,9.6688773,59.139858499999995,Porsgrunn videregående skole,post@vtfk.no,3918,PORSGRUNN,www.porsgrunn.vgs.no
+Node 305,14.376390381329,67.28043800824861,Privatistkontoret i Nordland,post@nfk.no,8005,BODØ,
+Node 306,10.743853511668501,59.917046678156005,Prosjektskolen AS,post@prosjektskolen.no,165,OSLO,www.prosjektskolen.no
+Node 307,5.6555613,58.9973186,Randaberg videregående skole,firmapost@rogfk.no,4072,RANDABERG,www.randaberg.vgs.no/
+Node 308,10.604500497914,60.71396962281511,Raufoss videregående skole,,2833,RAUFOSS,www.raufoss.vgs.no/
+Node 309,7.68266906259681,62.563934349666205,Rauma videregående skole,post@mrfylke.no,6300,ÅNDALSNES,www.rauma.vgs.no/
+Node 310,10.2486399883489,59.3582320734936,Re videregående skole,post@vtfk.no,3175,RAMNES,rvs.vfk.no/
+Node 311,10.2589481254938,60.1642457718701,Ringerike videregående skole,post@viken.no,3510,HØNEFOSS,www.ringerike.vgs.no/
+Node 312,10.9396,60.8889,Ringsaker videregående skole,,2383,BRUMUNDDAL,www.ringsaker.vgs.no/
+Node 313,9.21836376026354,58.7204569198344,Risør videregående skole,postmottak@agderfk.no,4950,RISØR,www.risor.vgs.no
+Node 314,8.59243,59.876999999999995,Rjukan videregående skole,post@vtfk.no,3660,RJUKAN,www.rjukan.vgs.no/
+Node 315,10.812869894870698,59.794413743686704,Roald Amundsen videregående skole,post@viken.no,1412,SOFIEMYR,www.oppegaard.vgs.no/
+Node 316,7.19129836322391,62.744383154335395,Romsdal videregående skole,post@mrfylke.no,6415,MOLDE,www.romsdal.vgs.no
+Node 317,10.508601690404099,59.9098825185377,Rosenvilde videregående skole,post@viken.no,1352,KOLSÅS,www.rosenvilde.vgs.no/
+Node 318,5.26219,59.8186,Rubbestadnes vidaregåande skule,post@vlfk.no,5420,RUBBESTADNESET,skole.hfk.no/rubbestadnesvgs
+Node 319,10.5004073102405,59.9080882975286,Rud videregående skole,post@viken.no,1351,RUD,www.rud.vgs.no/
+Node 320,10.5827159398916,59.9545062026643,Rud videregående skole,post@viken.no,1359,EIKSMARKA,
+Node 321,5.34308477890984,60.3436807929849,Rudolf Steinerskolen i Bergen,bergen@steinerskolen.no,5230,PARADIS,
+Node 322,10.6588633702319,59.949164624029706,Rudolf Steinerskolen i Oslo,post@rsio.no,770,OSLO,www.rsio.no
+Node 323,11.0652901645904,59.9262351756534,Rælingen videregående skole,post@viken.no,2008,FJERDINGBY,www.raelingen.vgs.no
+Node 324,11.6882254,62.4786623,Røros videregående skole,postmottak@trondelagfylke.no,7374,RØROS,www.roros.vgs.no
+Node 325,10.399337300000001,59.73850079999999,Røyken videregående skole,post@viken.no,3440,RØYKEN,www.royken.vgs.no
+Node 326,15.371251151019,67.0877374900775,Saltdal videregående skole,post@nfk.no,8250,ROGNAN,www.saltdal.vgs.no
+Node 327,8.7234944994651,58.4811234149513,Sam Eyde videregående skole,postmottak@agderfk.no,4848,ARENDAL,www.sameyde.vgs.no
+Node 328,25.5302,69.4674,Samisk videregående skole,postmottak@kd.dep.no,9730,KARASJOK,www.sami.vgs.no
+Node 329,23.0349998328068,69.0087854345209,Samisk videregående skole og Reindriftsskole,postmottak@kd.dep.no,9520,KAUTOKEINO,www.samisk.vgs.no
+Node 330,10.2412164880158,59.585836772107896,Sande videregående skole,post@vtfk.no,3076,SANDE I VESTFOLD,www.vfk.no/skoler/sande-vgs/
+Node 331,10.2043810830496,59.1332230471041,Sandefjord videregående skole,post@vtfk.no,3214,SANDEFJORD,sfvs.vfk.no/
+Node 332,5.725387757835519,58.8573118500698,Sandnes videregående skole,firmapost@rogfk.no,4316,SANDNES,www.sandnes.vgs.no
+Node 333,12.6005638711635,66.0142804645343,Sandnessjøen videregående skole,post@nfk.no,8800,SANDNESSJØEN,www.sandnessjoen.vgs.no
+Node 334,5.279106400000001,60.291077,Sandsli videregående skole,post@vlfk.no,5254,SANDSLI,skole.hfk.no/sandslivgs
+Node 335,10.5176076748036,59.89279794583489,Sandvika videregående skole,post@viken.no,1337,SANDVIKA,www.sandvika.vgs.no
+Node 336,6.359137782238309,59.653525853203405,Sauda vidaregåande skule,firmapost@rogfk.no,4200,SAUDA,www.sauda.vgs.no
+Node 337,6.2553949,59.4924091,Sauda videregående skole,firmapost@rogfk.no,4230,SAND,
+Node 338,11.0180286745048,59.273281278160496,Seiersborg videregående skole AS,epost@seiersborg.vgs.no,1666,ROLVSØY,www.seiersborg.vgs.no/
+Node 339,11.035488589218,63.2294090399771,Selbu videregående skole,postmottak@trondelagfylke.no,7580,SELBU,www.selbu.vgs.no
+Node 340,18.074,69.3535,Senja videregående skole,postmottak@tffk.no,9372,GIBOSTAD,www.senja.vgs.no
+Node 341,18.0945,69.2332,Senja videregående skole,postmottak@tffk.no,9308,FINNSNES,www.senja.vgs.no
+Node 342,11.4818768090662,64.0144268300751,Sentralskolen Trøndelag,postmottak@trondelagfylke.no,7725,STEINKJER,
+Node 343,12.0017354128914,60.190553588619004,Sentrum videregående skole,,2212,KONGSVINGER,www.sentrum.vgs.no/
+Node 344,7.77006698505522,58.5675469457394,Setesdal vidaregåande skule,postmottak@agderfk.no,4737,HORNNES,www.setesdal.vgs.no
+Node 345,10.1527117510445,59.3180807206756,Signo Grunn- og videregående skole AS,postssk@signo.no,3158,ANDEBU,www.signo.no
+Node 346,6.7211676200549295,58.667091703257505,Sirdal videregående skole,postmottak@agderfk.no,4440,TONSTAD,www.sirdal.vgs.no
+Node 347,5.22002273572865,60.34000219878679,Sjøforsvarets Fagskole,postmottak@fd.dep.no,5173,LODDEFJORD,
+Node 348,17.8455470989424,68.8733739928605,Sjøvegan videregående skole,postmottak@tffk.no,9350,SJØVEGAN,www.sjovegan.vgs.no
+Node 349,10.231373941507501,59.1200425341978,Skagerak International School,office@skagerak.org,3222,SANDEFJORD,www.skagerak.org
+Node 350,11.6814,60.2523,Skarnes videregående skole,,2100,SKARNES,www.skarnes.vgs.no
+Node 351,11.040337022995601,59.9654175641604,Skedsmo videregående skole,post@viken.no,2003,LILLESTRØM,www.skedsmo.vgs.no/
+Node 352,5.2711628680977896,59.422972597748604,Skeisvang videregående skole,firmapost@rogfk.no,5518,HAUGESUND,www.skeisvang.vgs.no
+Node 353,10.848960827385199,59.717771687459205,Ski videregående skole,post@viken.no,1400,SKI,www.ski.vgs.no/
+Node 354,9.61451312713336,59.199413846043605,Skien videregående skole,post@vtfk.no,3732,SKIEN,www.skien.vgs.no
+Node 355,9.620807968635,59.173422129597796,Skogmo videregående skole,post@vtfk.no,3735,SKIEN,www.skogmo.vgs.no/
+Node 356,5.73807335602556,58.9854042059622,Skoleskipet Gann,post@gann.no,4077,HUNDVÅG,www.gann.no
+Node 357,10.4057086044715,59.270509854410804,Slottsfjellet videregående,thomas.johnsen@steinerskolen.no,3111,TØNSBERG,
+Node 358,5.35763015882937,60.3095481504134,Slåtthaug videregående skole,post@vlfk.no,5222,NESTTUN,skole.hfk.no/slatthaugvgs
+Node 359,7.20043457689262,60.902510283786896,Sogn Jord- og Hagebruksskule,post@vlfk.no,5745,AURLAND,www.sogn-j-h.vgs.no
+Node 360,7.08404969146246,61.2322034724916,Sogndal vidaregåande skule,post@vlfk.no,6856,SOGNDAL,www.sogndal.vgs.no
+Node 361,5.665736316553461,58.8936497455309,Sola videregående skole,firmapost@rogfk.no,4055,SOLA,www.sola.vgs.no
+Node 362,12.0170585285606,60.61261256970679,Solør videregående skole,,2270,FLISA,www.soloer.vgs.no
+Node 363,12.0187567434606,60.5490237683673,Solør videregående skole,,2266,ARNEBERG,www.klokkergarden.no
+Node 364,12.065848687664499,60.6636805575743,Solør videregående skole,,2280,GJESÅSEN,
+Node 365,11.8024363172397,60.7108517603409,Solør videregående skole,,2435,BRASKEREIDFOSS,soloer.vgs.no
+Node 366,15.087162640218502,68.9177551442821,Sortland videregående skole,post@nfk.no,8430,MYRE,
+Node 367,15.2782732068414,68.6470124759051,Sortland videregående skole,post@nfk.no,8404,SORTLAND,sortland.vgs.no
+Node 368,15.4089324002895,68.6965961105675,Sortland videregående skole,post@nfk.no,8400,SORTLAND,sortland.vgs.no
+Node 369,18.9788898466873,69.6860189058356,Sosiale Medisinske Institusjoner - Skolen,postmottak@tffk.no,9019,TROMSØ,www.smi-skolen.no
+Node 370,5.10859801914798,60.3518776559457,Sotra vidaregåande skule,post@vlfk.no,5353,STRAUME,skole.hfk.no/sotravgs
+Node 371,6.37479357447727,62.460993485199396,Spjelkavik videregående skole,post@mrfylke.no,6011,ÅLESUND,www.spjelkavik.vgs.no
+Node 372,10.238035366926802,59.7606686477193,St Hallvard videregående skole,post@viken.no,3413,LIER,www.st-hallvard.vgs.no/
+Node 373,5.69589246884951,58.9556814885137,St Svithun videregående skole,firmapost@rogfk.no,4022,STAVANGER,www.svithun.vgs.no/
+Node 374,5.72503960701939,58.9671148685448,St. Olav videregående skole,firmapost@rogfk.no,4008,STAVANGER,www.st-olav.vgs.no
+Node 375,11.1045985727316,59.2808575134791,St. Olav videregående skole,post@viken.no,1723,SARPSBORG,www.stolav.vgs.no/
+Node 376,5.33371506136337,60.382844732840205,St. Paul gymnas,gymnas@stpaulgymnas.no,5008,BERGEN,www.stpaulgymnas.no
+Node 377,10.6157221746597,59.90971788189321,Stabekk videregående skole,post@viken.no,1369,STABEKK,www.stabekk.vgs.no/
+Node 378,11.2006654669415,60.715358912527705,Stange videregående skole,,2335,STANGE,www.stange.vgs.no
+Node 379,16.1769395457564,68.775042711874,Stangnes Rå videregående skole,postmottak@tffk.no,9475,BORKENES,www.ra.vgs.no
+Node 380,16.5830675620237,68.7858760959458,Stangnes Rå videregående skole,postmottak@tffk.no,9409,HARSTAD,www.stangnes.vgs.no
+Node 381,10.693060226209099,59.9624895276087,Statped Oslo,postmottak@kd.dep.no,781,OSLO,www.skaadalen.skole.no
+Node 382,5.73313839068154,58.9691431623574,Stavanger katedralskole,firmapost@rogfk.no,4005,STAVANGER,www.stavanger-katedralskole.vgs.no
+Node 383,5.71446257861437,58.9826818119782,Stavanger Offshore Tekniske skole,firmapost@rogfk.no,4007,STAVANGER,www.sots.no
+Node 384,10.6056552705508,59.9300016637399,Steinerskolen i Bærum,grav@steinerskolen.no,1358,JAR,www.stib.no/
+Node 385,10.697176146575698,59.4635810246388,Steinerskolen i Moss,moss@steinerskolen.no,1536,MOSS,www.steinerskolenmoss.no/
+Node 386,5.73421380053116,58.938846425359706,Steinerskolen i Stavanger,post@stavanger-steinerskolen.no,4017,STAVANGER,
+Node 387,10.3731456146856,63.430570287730504,Steinerskolen i Trondheim,trondheim@steinerskolen.no,7018,TRONDHEIM,www.steinerskolenitrondheim.no
+Node 388,11.0863441078757,60.7708478547752,Steinerskolen på Hedemarken,hedemarken@steinerskolen.no,2312,OTTESTAD,www.hedemarken.steinerskolen.no
+Node 389,10.485630195278699,63.43888942343389,Steinerskolen på Rotvoll,rotvoll@steinerskolen.no,7053,RANHEIM,steinerskolenpårotvoll.no
+Node 390,5.32900864523653,60.310170858038305,Steinerskolen på Skjold,skjold@steinerskolen.no,5236,RÅDAL,
+Node 391,11.515600968281099,64.0200420660973,Steinkjer videregående skole,postmottak@trondelagfylke.no,7716,STEINKJER,www.steinkjer.vgs.no/
+Node 392,5.33048266450734,60.272353092224904,Stend vidaregåande skule,post@vlfk.no,5244,FANA,skole.hfk.no/stendvgs
+Node 393,10.759889235341301,59.91838554744329,Stiftelsen Spin Off Forstudium,livgreli@spinoff.no,560,OSLO,www.spinoff.no
+Node 394,9.59109287197141,59.211607236732995,Stiftelsen Telemark Toppidrett gymnas,post@toppidrettsgymnaset.no,3722,SKIEN,www.toppidrettsgymnaset.no
+Node 395,11.476290254309099,59.2289053602474,Stiftelsen Østerbo videregående skole,post@o-vgs.no,1764,HALDEN,www.osterbo-vgs.no
+Node 396,5.49251912543338,59.7765995636673,Stord vidaregåande skule,post@vlfk.no,5411,STORD,skole.hfk.no/stordvgs
+Node 397,11.039822810979302,60.79774630795279,Storhamar videregående skole,,2315,HAMAR,www.storhamar.vgs.no
+Node 398,11.002576232246001,61.567647917045605,Storsteigen videregående skole,,2480,KOPPANG,www.hedmark.org/skolene/storsteigen-videregaende-skole
+Node 399,10.6250457259356,62.11069887461329,Storsteigen videregående skole,,2560,ALVDAL,www.storsteigen.vgs.no
+Node 400,10.9267752238007,59.96050521703171,Stovner videregående skole,postmottak@oslo.kommune.no,985,OSLO,stovner.vgs.no
+Node 401,5.92096772437922,59.0634381331727,Strand videregående skole,firmapost@rogfk.no,4120,TAU,www.strand.vgs.no
+Node 402,6.91388614287433,62.3059977238851,Stranda vidaregåande skule,post@mrfylke.no,6200,STRANDA,www.stranda.vgs.no/
+Node 403,10.4272587179424,63.4205166527546,Strinda videregående skole,postmottak@trondelagfylke.no,7052,TRONDHEIM,www.strinda.vgs.no
+Node 404,10.752792697374401,59.9203500920709,Strykejernet kunstskole AS,post@strykejernet.no,182,OSLO,www.strykejernet.no
+Node 405,6.714202687783169,61.9034144542475,Stryn vidaregåande skule,post@vlfk.no,6783,STRYN,www.stryn.vgs.no/
+Node 406,11.014734464415698,59.954475666156995,Strømmen videregående skole,post@viken.no,2010,STRØMMEN,www.strommen.vgs.no/
+Node 407,8.589578151407808,62.6701854432986,Sunndal vidaregåande skole,post@mrfylke.no,6600,SUNNDALSØRA,www.sunndal.vgs.no/
+Node 408,8.71858614916731,62.9825005287123,Surnadal vidaregåande skule,post@mrfylke.no,6650,SURNADAL,www.surnadal.vgs.no
+Node 409,6.52918001875414,61.20767167001679,Sygna Vgs,khe@sygna.vgs.no,6899,BALESTRAND,www.sygna.vgs.no
+Node 410,6.589305746543679,62.39371487924439,Sykkylven vidaregåande skule,post@mrfylke.no,6230,SYKKYLVEN,www.sykkylven.vgs.no
+Node 411,7.841143189531139,58.0911068651141,Søgne videregående skole,postmottak@agderfk.no,4640,SØGNE,www.sogne.vgs.no
+Node 412,11.2389897092363,59.98799456342711,Sørumsand videregående skole,post@viken.no,1920,SØRUMSAND,www.sorumsand.vgs.no/
+Node 413,28.245980930974003,70.4376207617112,Tana videregående skole,postmottak@tffk.no,9845,TANA,www.tana.vgs.no/
+Node 414,8.00822577274268,58.1477859736846,Tangen videregående skole,postmottak@agderfk.no,4608,KRISTIANSAND S,www.tangen.vgs.no/
+Node 415,5.31261177036163,60.4550478445218,Tertnes vidaregåande skule,post@vlfk.no,5113,TERTNES,skole.hfk.no/tertnesvgs
+Node 416,10.055333079998901,59.0493574179488,Thor Heyerdahl videregående skole,post@vtfk.no,3262,LARVIK,thvs.no
+Node 417,10.388266218129699,63.42783738382089,Thora Storm videregående skole,postmottak@trondelagfylke.no,7012,TRONDHEIM,thorastorm.vgs.no
+Node 418,10.351269120374,63.366376323063896,Tiller videregående skole,postmottak@trondelagfylke.no,7078,SAUPSTAD,www.tiller.vgs.no
+Node 419,8.19450102505333,62.915000884253594,Tingvoll vidaregåande skole,post@mrfylke.no,6630,TINGVOLL,www.tingvoll.vgs.no/
+Node 420,10.8122771739181,59.3211071117897,Tomb videregående skole,post@tomb.no,1643,RÅDE,
+Node 421,10.7394571639728,59.9238560607543,Troens Bevis Bibel og Misjons Institutt,post@tbbmi.no,170,OSLO,www.tbbmi.no
+Node 422,19.0145295564467,69.65190447706979,Tromsdalen videregående skole,postmottak@tffk.no,9024,TOMASJORD,www.tromsdalen.vgs.no
+Node 423,18.9543311752391,69.6551143232656,Tromsø Maritime skole,postmottak@tffk.no,9009,TROMSØ,www.tos-mar.vgs.no
+Node 424,10.395678973379699,63.4286467178082,Trondheim katedralskole,postmottak@trondelagfylke.no,7013,TRONDHEIM,www.trondheim-katedral.vgs.no/
+Node 425,5.73924618581571,58.8831336532225,Tryggheim Forus AS,post@tryggheimforus.no,4315,SANDNES,www.tryggheimforus.no
+Node 426,5.6361655728945195,58.6735017126214,Tryggheim vidaregåande skule,post@tryggheim.no,4365,NÆRBØ,www.tryggheim.no
+Node 427,12.256285217626901,61.3107799392261,Trysil videregående skole,,2420,TRYSIL,www.trysil.vgs.no/
+Node 428,11.481876776019199,64.01442658315071,Trøndelag voksenopplæring,postmottak@trondelagfylke.no,7725,STEINKJER,
+Node 429,8.934080073808829,58.6283173495473,Tvedestrand videregående skole,postmottak@agderfk.no,4900,TVEDESTRAND,www.tvedestrandamli.vgs.no
+Node 430,8.92806724800338,58.621955642905505,Tvedestrand videregående skole,postmottak@agderfk.no,4900,TVEDESTRAND,www.tvedestrandamli.vgs.no
+Node 431,5.78269815785912,59.3420644181193,Tveit vidaregåande skule,kontor@tveit.vgs.no,5560,NEDSTRAND,
+Node 432,10.1695361160692,60.0709541829749,Tyrifjord videregående skole,post@tyrifjord.vgs.no,3530,RØYSE,www.tyrifjord.vgs.no
+Node 433,10.405147478927198,59.2666808422919,Tønsberg Bibelskole AS,bibelskole@tonsbergfrikirke.no,3126,TØNSBERG,
+Node 434,10.663453096977099,59.931133662693995,Ullern videregående skole,postmottak@oslo.kommune.no,379,OSLO,ullern.vgs.no
+Node 435,10.8506748825632,59.8857888670038,Ulsrud videregående skole,postmottak@oslo.kommune.no,688,OSLO,ulsrud.vgs.no
+Node 436,5.88288170820663,62.3402367031126,Ulstein vidaregåande skule,post@mrfylke.no,6065,ULSTEINVIK,www.ulstein.vgs.no/
+Node 437,8.93170852901184,60.7035226031285,Ung Invest Aib,post@viken.no,3550,GOL,
+Node 438,9.97620853942897,59.9475257543684,Ung Invest Aib,post@viken.no,3370,VIKERSUND,www.ai-modum.bu.no/
+Node 439,10.2618361792529,60.2003799964521,Ung Invest Aib,post@viken.no,3516,HØNEFOSS,www.ai-ringerike.bu.no/
+Node 440,9.627471626916051,59.67810155280561,Ung Invest Aib,post@viken.no,3617,KONGSBERG,
+Node 441,10.260334599664901,59.7227909871066,Ung Invest Aib,post@viken.no,3039,DRAMMEN,www.ai-drammen.bu.no
+Node 442,6.3219560209145405,62.4653059948633,Upa skole,post@mrfylke.no,6017,ÅLESUND,
+Node 443,10.7607785138127,59.9133997973651,Urtehagen videregående Privatskole,,188,OSLO,
+Node 444,29.738747728794102,70.07807695689961,Vadsø videregående skole,postmottak@tffk.no,9800,VADSØ,www.vadso.vgs.no/
+Node 445,11.4233480129354,64.7858142096693,Val Skoler AS,post@val.vgs.no,7970,KOLVEREID,www.val.vgs.no/
+Node 446,9.30755963996817,60.96855571780371,Valdres vidaregåande skule,,2920,LEIRA I VALDRES,www.valdres.vgs.no/
+Node 447,10.806215285118599,59.918718098822005,Valle Hovin videregående skole,postmottak@oslo.kommune.no,663,OSLO,vallehovin.vgs.no/
+Node 448,10.526955598435901,59.901284762044796,Valler videregående skole,post@viken.no,1338,SANDVIKA,www.valler.vgs.no
+Node 449,5.29023834055313,59.4116419376931,Vardafjell videregående skole,firmapost@rogfk.no,5532,HAUGESUND,vardafjell-vgs@skole.rogfk.no
+Node 450,31.103784584014395,70.37161577079141,Vardø videregående skole,postmottak@tffk.no,9950,VARDØ,www.vardo.vgs.no/
+Node 451,7.97160152912058,58.2771389109176,Vennesla videregående skole,postmottak@agderfk.no,4700,VENNESLA,www.vennesla.vgs.no/
+Node 452,11.501832742486998,63.796576376050794,Verdal videregående skole,postmottak@trondelagfylke.no,7654,VERDAL,www.verdal.vgs.no/
+Node 453,6.91996018612317,62.308558049991504,Vestborg Vgs,info@vestborg.no,6200,STRANDA,www.vestborg.no
+Node 454,10.7589402696398,59.6067538113586,Vestby videregående skole,post@viken.no,1540,VESTBY,vestby.vgs.no
+Node 455,10.415938151964001,59.265441221234,Vestfold og Telemark fylkeskommune,post@vtfk.no,3126,TØNSBERG,
+Node 456,9.612507303879221,59.215984654592,Vestfold og Telemark fylkeskommune,post@vtfk.no,3715,SKIEN,
+Node 457,10.4159381515229,59.2654412213771,Vestfold og Telemark fylkeskommune avd Tønsberg,post@vtfk.no,3126,TØNSBERG,
+Node 458,13.623431410940599,68.1458870594734,Vest-Lofoten videregående skole,post@nfk.no,8370,LEKNES,www.vest-lofoten.vgs.no/
+Node 459,8.62034545648193,59.48254457992189,Vest-Telemark vidaregåande skule,post@vtfk.no,3840,SELJORD,www.bo.vgs.no/
+Node 460,7.98769337601125,59.446612500586795,Vest-Telemark vidaregåande skule,post@vtfk.no,3880,DALEN,www.vest-telemark.vgs.no
+Node 461,9.73425746279542,61.59814032119921,Vinstra vidaregåande skule,,2640,VINSTRA,www.vinstra.vgs.no/
+Node 462,6.16827978647269,59.150739839439794,Vinterlandbruksskulen i Ryfylke,kontor@vlr.no,4137,ÅRDAL I RYFYLKE,www.vlr.no
+Node 463,5.67083947063167,58.801233652277006,Vinterlandbruksskulen på Jæren,post@vlj.no,4351,KLEPPE,
+Node 464,6.07264564670601,62.1500278621414,Volda vidaregåande skule,post@mrfylke.no,6102,VOLDA,www.volda.vgs.no/
+Node 465,6.42604833662691,60.6269531182424,Voss gymnas,post@vlfk.no,5700,VOSS,www.hordaland.no/vossgymnas
+Node 466,6.437149072653001,60.65025098172179,Voss vidaregåande skule,post@vlfk.no,5710,SKULESTADMO,www.hordaland.no/vossvgs/
+Node 467,5.7409358462823405,58.8507139707652,Vågen videregående skole,firmapost@rogfk.no,4306,SANDNES,www.vågen.vgs.no
+Node 468,7.9560027722334405,58.1256852933255,Vågsbygd videregående skole,postmottak@agderfk.no,4621,KRISTIANSAND S,www.vagsbygd.vgs.no
+Node 469,10.928957622774501,59.2125641708898,Wang Fredrikstad AS,petter.wilhelmsen@wang.no,1671,KRÅKERØY,www.wang.no
+Node 470,11.038109557839599,60.80167482099421,Wang Hamar AS,ee@wang.no,2316,HAMAR,www.wang.no
+Node 471,5.700059725073871,58.954602454357605,Wang Toppidrett Stavanger AS,steffen.uldal@wang.no,4021,STAVANGER,www.wang.no
+Node 472,10.4157333293472,59.295024690528706,Wang Tønsberg AS,tonsberg@wang.no,3122,TØNSBERG,www.wang.no
+Node 473,10.7242733769192,59.914736422881205,Wang videregående Skole/ Wang Toppidrett,wang@wang.no,253,OSLO,www.wang.no
+Node 474,11.2334617454443,64.8696082445279,Ytre Namdal videregående skole,postmottak@trondelagfylke.no,7900,RØRVIK,www.ytre-namdal.vgs.no/
+Node 475,5.67141622019506,58.800817346078,Øksnevad vidaregåande skole,firmapost@rogfk.no,4351,KLEPPE,oksnevad-vgs@skole.rogfk.no
+Node 476,5.81603390252571,59.606708048007604,Ølen vidaregåande skule,firmapost@rogfk.no,5580,ØLEN,www.olen.vgs.no/
+Node 477,6.129981199488999,62.1959896304898,Ørsta vidaregåande skule,post@mrfylke.no,6153,ØRSTA,www.orsta.vgs.no/
+Node 478,12.0083921643613,60.1949757412197,Øvrebyen videregående skole,,2213,KONGSVINGER,www.ovrebyen.vgs.no
+Node 479,7.876445980633821,58.2877007755597,Øvrebø videregående skole AS,pov@ovrebo.vgs.no,4715,ØVREBØ,www.ovrebo.vgs.no
+Node 480,10.275355217827,63.23680925109551,Øya videregående skole,oya@oya.vgs.no,7228,KVÅL,www.oya.vgs.no
+Node 481,9.079207879832081,61.133644604084104,Øystre Slidre Lærlingeverksemda,post@oystre-slidre.kommune.no,2940,HEGGENES,
+Node 482,10.221668449990199,63.96564515221851,Åfjord videregående skole,postmottak@trondelagfylke.no,7170,ÅFJORD,www.afjord.vgs.no/
+Node 483,5.19801784001919,59.256652431583795,Åkrehamn vidaregåande skole,firmapost@rogfk.no,4270,ÅKREHAMN,www.akrehamn.vgs.no
+Node 484,8.54795261972777,60.6290883377398,Ål vidaregåande skole,post@viken.no,3570,ÅL,www.al.vgs.no
+Node 485,6.148903295861531,62.471680917300795,Ålesund videregående skole,post@mrfylke.no,6004,ÅLESUND,www.alesund.vgs.no/
+Node 486,7.800153417931599,61.30843241059879,Årdal vidaregåande skule,post@vlfk.no,6884,ØVRE ÅRDAL,www.ardal.vgs.no/
+Node 487,5.34041419462963,60.3749309557472,Årstad videregående skole,post@vlfk.no,5053,BERGEN,skole.hfk.no/arstadvgs
+Node 488,10.795760311057,59.6632519882726,Ås videregående skole,post@viken.no,1435,ÅS,www.aas.vgs.no/
+Node 489,5.34094056830098,60.474803140042496,Åsane vidaregåande skule,post@vlfk.no,5131,NYBORG,skole.hfk.no/asanevgs
+Node 490,10.1207403463766,59.7570863741527,Åssiden videregående skole,post@viken.no,3028,DRAMMEN,www.assiden.vgs.no/
