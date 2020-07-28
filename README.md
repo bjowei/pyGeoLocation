@@ -16,7 +16,7 @@ I Visual Studio Code anbefalar eg å installere følgande extensions:
 - Python
 - Rainbow csv
 
-Python extensionen lar deg redigere og køyre jupyter notebooks i visual studio code istadenfor å hoste ein anaconda økt og opne den i nettlesaren.
+Python extensionen lar deg redigere og køyre jupyter notebooks i visual studio code istadenfor å hoste ein jupyter økt i terminalen og opne den i nettlesaren.
 
 ### Anaconda og anacondamiljø
 
@@ -27,7 +27,7 @@ Aktiver anaconda miljøet i vscode og opne terminalen i rot mappa med miljøet a
 
 For å importere anacondamiljøet køyr kommandoen: `conda env create -f pydigdir.yml`
 
-Då er alle bibiliotek som ein treng for å køyre denne notebooken (og dei andre jupyter notebookane laga på DigDirCamp).
+Då er alle bibiliotek som ein treng for å køyre denne notebooken (og dei andre jupyter notebookane laga på DigDirCamp) installert.
 
 ### Litt om jupyter notebook
 
